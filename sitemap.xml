@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>barkeeng.com/about</loc>
+    <lastmod>2022-08-04</lastmod>
+ <changefreq>weekly</changefreq>
+ <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>barkeeng.com/blog</loc>
+    <lastmod>2022-08-04</lastmod>
+ <changefreq>weekly</changefreq>
+ <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>barkeeng.com/contact</loc>
+    <lastmod>2022-08-04</lastmod>
+ <changefreq>weekly</changefreq>
+ <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>barkeeng.com/loading</loc>
+    <lastmod>2022-08-04</lastmod>
+ <changefreq>weekly</changefreq>
+ <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>barkeeng.com/plan</loc>
+    <lastmod>2022-08-04</lastmod>
+ <changefreq>weekly</changefreq>
+ <priority>0.9</priority>
+  </url>
+</urlset>
