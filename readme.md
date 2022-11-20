@@ -1,1 +1,1 @@
-https://github.com/rgeen/barkeeng.com.git
+https://github.com/rgeen/barkeeng.net.git
